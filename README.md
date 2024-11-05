@@ -23,7 +23,7 @@ Create a Node.js script that writes the string `"Hello, Node.js!"` to a file cal
 Your project folder should look like this:
 
 ```bash
-problem-3-file-writer/
+03-write-file-node-problem/
 ├── output.txt       # The file where content will be written
 ├── writeFile.js     # The script to write content to the file
 ├── README.md        # Documentation for this problem
